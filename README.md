@@ -54,8 +54,8 @@ The dataset contains borrower, loan, credit history, and repayment-related attri
 
 The target variable is:
 
-```text
-loan_status
+```text``` 
+```loan_status```
 
 The data is divided into training and testing sets for model development and evaluation.
 System Architecture
