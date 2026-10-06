@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+.pytest_cache/
+
+# Local databases
+*.db
+
+# Generated reports
+EDA_report.html

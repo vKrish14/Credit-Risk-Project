@@ -1,0 +1,21 @@
+pandas==2.2.2
+numpy<2
+seaborn==0.13.2
+scikit-learn==1.5.1
+ydata-profiling==4.9.0
+ipykernel==6.29.5
+ipywidgets==8.1.5
+pytest==8.3.3
+pyqt5==5.15.11
+xgboost==2.1.1
+dill==0.3.9
+mlflow==2.16.2
+optuna==4.0.0
+virtualenv==20.26.6
+virtualenv == 20.26.6
+fastapi == 0.115.2
+pydantic == 2.9.2
+uvicorn == 0.31.1
+streamlit == 1.39.0
+plotly == 5.24.1
+nbformat == 5.10.4
