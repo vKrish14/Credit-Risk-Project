@@ -14,10 +14,10 @@ The project uses a reduced Lending Club loan dataset containing approximately **
 
 The dataset contains borrower, loan, credit history, and repayment-related attributes.
 
+
 The target variable is:
 
-```text
-loan_status
+```loan_status```
 
 The data is divided into training and testing sets for model development and evaluation.
 System Architecture
